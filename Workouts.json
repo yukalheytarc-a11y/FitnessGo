@@ -1,0 +1,1524 @@
+{
+  "goals": {
+    "gain_weight": {
+      "beginner": {
+        "normal": [
+          {
+            "name": "Push-up",
+            "sets": 3,
+            "reps": 10,
+            "rest": "30s"
+          },
+          {
+            "name": "Calf Raise",
+            "sets": 3,
+            "reps": 12,
+            "rest": "30s"
+          },
+          {
+            "name": "Squat",
+            "sets": 3,
+            "reps": 15,
+            "rest": "30s"
+          },
+          {
+            "name": "Dead Bug",
+            "sets": 3,
+            "reps": 12,
+            "rest": "30s"
+          },
+          {
+            "name": "Wall Sit",
+            "sets": 3,
+            "reps": "15s",
+            "rest": "30s"
+          },
+          {
+            "name": "Standing Knee Raise | Left & Right",
+            "sets": 3,
+            "reps": 15,
+            "rest": "30s"
+          },
+          {
+            "name": "Plank",
+            "sets": 3,
+            "reps": "15s",
+            "rest": "30s"
+          },
+          {
+            "name": "Step-up",
+            "sets": 3,
+            "reps": 10,
+            "rest": "30s"
+          },
+          {
+            "name": "Single-leg Glute Bridge | Left & Right ",
+            "sets": 3,
+            "reps": 12,
+            "rest": "30s"
+          },
+          {
+            "name": "Reverse Lunge",
+            "sets": 3,
+            "reps": 10,
+            "rest": "30s"
+          }
+        ],
+        "health_condition": [
+          {
+            "name": "Superman Hold",
+            "sets": 2,
+            "reps": "10s",
+            "rest": "50s"
+          },
+          {
+            "name": "Calf Raise | Left & Right",
+            "sets": 2,
+            "reps": 12,
+            "rest": "50s"
+          },
+          {
+            "name": "Squat",
+            "sets": 2,
+            "reps": 10,
+            "rest": "50s"
+          },
+          {
+            "name": "Push-up",
+            "sets": 2,
+            "reps": 5,
+            "rest": "50s"
+          },
+          {
+            "name": "Bridge March",
+            "sets": 2,
+            "reps": 10,
+            "rest": "50s"
+          },
+          {
+            "name": "Standing Knee Raise | Left & Right",
+            "sets": 2,
+            "reps": 12,
+            "rest": "50s"
+          },
+          {
+            "name": "Single-leg Glute Bridge | Left & Right",
+            "sets": 2,
+            "reps": 10,
+            "rest": "50s"
+          },
+          {
+            "name": "Curl Ups",
+            "sets": 2,
+            "reps": 5,
+            "rest": "50s"
+          },
+          {
+            "name": "Hip Hinge",
+            "sets": 2,
+            "reps": 10,
+            "rest": "50s"
+          },
+          {
+            "name": "Reverse Lunge",
+            "sets": 2,
+            "reps": 12,
+            "rest": "50s"
+          }
+        ]
+      },
+      "intermediate": {
+        "normal": [
+          {
+            "name": "Dead Bug",
+            "sets": 5,
+            "reps": 20,
+            "rest": "40s"
+          },
+          {
+            "name": "Bird Dog",
+            "sets": 5,
+            "reps": 12,
+            "rest": "40s"
+          },
+          {
+            "name": "Side Lunge | Left & Right",
+            "sets": 5,
+            "reps": 15,
+            "rest": "40s"
+          },
+          {
+            "name": "Hip Hinge",
+            "sets": 5,
+            "reps": 12,
+            "rest": "40s"
+          },
+          {
+            "name": "Superman Hold",
+            "sets": 5,
+            "reps": "10s",
+            "rest": "40s"
+          },
+          {
+            "name": "Standing Knee Raise | Left & Right",
+            "sets": 5,
+            "reps": 10,
+            "rest": "40s"
+          },
+          {
+            "name": "Calf Raise",
+            "sets": 5,
+            "reps": 15,
+            "rest": "40s"
+          },
+          {
+            "name": "Wall Sit",
+            "sets": 5,
+            "reps": "20s",
+            "rest": "40s"
+          },
+          {
+            "name": "Step-up",
+            "sets": 5,
+            "reps": 15,
+            "rest": "40s"
+          },
+          {
+            "name": "Bridge March",
+            "sets": 5,
+            "reps": 10,
+            "rest": "40s"
+          }
+        ],
+        "health_condition": [
+          {
+            "name": "Push-up",
+            "sets": 3,
+            "reps": 5,
+            "rest": "60s"
+          },
+          {
+            "name": "Squat",
+            "sets": 3,
+            "reps": 8,
+            "rest": "60s"
+          },
+          {
+            "name": "Single-leg Glute Bridge | Left & Right",
+            "sets": 3,
+            "reps": 12,
+            "rest": "60s"
+          },
+          {
+            "name": "Glute Bridge | Left & Right",
+            "sets": 3,
+            "reps": 10,
+            "rest": "60s"
+          },
+          {
+            "name": "Reverse Lunge",
+            "sets": 3,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Plank",
+            "sets": 3,
+            "reps": "10s",
+            "rest": "60s"
+          },
+          {
+            "name": "Superman Hold",
+            "sets": 3,
+            "reps": "10s",
+            "rest": "60s"
+          },
+          {
+            "name": "Side Lunge | Left & Right",
+            "sets": 3,
+            "reps": 12,
+            "rest": "60s"
+          },
+          {
+            "name": "Arm Circles",
+            "sets": 3,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Wall Sit",
+            "sets": 3,
+            "reps": "10s",
+            "rest": "60s"
+          }
+        ]
+      },
+      "advanced": {
+        "normal": [
+          {
+            "name": "Diamond Push-up",
+            "sets": 5,
+            "reps": 10,
+            "rest": "60s"
+          },
+          {
+            "name": "Curl Ups",
+            "sets": 5,
+            "reps": 20,
+            "rest": "60s"
+          },
+          {
+            "name": "Squat",
+            "sets": 5,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Standing Knee Raise | Left & Right",
+            "sets": 5,
+            "reps": 20,
+            "rest": "60s"
+          },
+          {
+            "name": "Single-leg Glute Bridge | Left & Right",
+            "sets": 5,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Bridge March",
+            "sets": 5,
+            "reps": 12,
+            "rest": "60s"
+          },
+          {
+            "name": "Calf Raise | Left & Right",
+            "sets": 5,
+            "reps": 20,
+            "rest": "60s"
+          },
+          {
+            "name": "Dead Bug",
+            "sets": 5,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Plank",
+            "sets": 5,
+            "reps": "20s",
+            "rest": "60s"
+          },
+          {
+            "name": "Superman Hold",
+            "sets": 5,
+            "reps": "15s",
+            "rest": "60s"
+          }
+        ],
+        "health_condition": [
+          {
+            "name": "Bird Dog",
+            "sets": 2,
+            "reps": 10,
+            "rest": "80s"
+          },
+          {
+            "name": "Squat",
+            "sets": 2,
+            "reps": 10,
+            "rest": "80s"
+          },
+          {
+            "name": "Dead Bug",
+            "sets": 2,
+            "reps": 15,
+            "rest": "80s"
+          },
+          {
+            "name": "Wall Push-up",
+            "sets": 2,
+            "reps": 20,
+            "rest": "80s"
+          },
+          {
+            "name": "Curl Ups",
+            "sets": 2,
+            "reps": 15,
+            "rest": "80s"
+          },
+          {
+            "name": "Side Lunge | Left & Right",
+            "sets": 2,
+            "reps": 15,
+            "rest": "80s"
+          },
+          {
+            "name": "Single-leg Glute Bridge | Left & Right",
+            "sets": 2,
+            "reps": 12,
+            "rest": "80s"
+          },
+          {
+            "name": "Wall Sit",
+            "sets": 2,
+            "reps": "10s",
+            "rest": "80s"
+          },
+          {
+            "name": "Calf Raise | Left & Right",
+            "sets": 2,
+            "reps": 15,
+            "rest": "80s"
+          },
+          {
+            "name": "Arm Circles",
+            "sets": 2,
+            "reps": 12,
+            "rest": "80s"
+          }
+        ]
+      }
+    },
+    "lose_weight": {
+      "beginner": {
+        "normal": [
+          {
+            "name": "Butt Kicks",
+            "sets": 3,
+            "reps": "30s",
+            "rest": "30s"
+          },
+          {
+            "name": "High Knees",
+            "sets": 3,
+            "reps": 20,
+            "rest": "30s"
+          },
+          {
+            "name": "Skater Step",
+            "sets": 3,
+            "reps": 15,
+            "rest": "30s"
+          },
+          {
+            "name": "Side Step Touch",
+            "sets": 3,
+            "reps": 20,
+            "rest": "30s"
+          },
+          {
+            "name": "Punches",
+            "sets": 3,
+            "reps": "30s",
+            "rest": "30s"
+          },
+          {
+            "name": "March in Place",
+            "sets": 3,
+            "reps": 15,
+            "rest": "30s"
+          },
+          {
+            "name": "Plank",
+            "sets": 3,
+            "reps": "60s",
+            "rest": "30s"
+          },
+          {
+            "name": "Burpees",
+            "sets": 3,
+            "reps": 10,
+            "rest": "30s"
+          },
+          {
+            "name": "Mountain Climbers",
+            "sets": 3,
+            "reps": 20,
+            "rest": "30s"
+          },
+          {
+            "name": "Jumping Jacks",
+            "sets": 3,
+            "reps": "60s",
+            "rest": "30s"
+          }
+        ],
+        "health_condition": [
+          {
+            "name": "March in Place",
+            "sets": 2,
+            "reps": 15,
+            "rest": "50s"
+          },
+          {
+            "name": "Squats",
+            "sets": 2,
+            "reps": 10,
+            "rest": "50s"
+          },
+          {
+            "name": "Butt Kicks",
+            "sets": 2,
+            "reps": "20s",
+            "rest": "50s"
+          },
+          {
+            "name": "Standing Twist",
+            "sets": 2,
+            "reps": 12,
+            "rest": "50s"
+          },
+          {
+            "name": "Plank",
+            "sets": 2,
+            "reps": "10s",
+            "rest": "50s"
+          },
+          {
+            "name": "Light Hops",
+            "sets": 2,
+            "reps": 12,
+            "rest": "50s"
+          },
+          {
+            "name": "Fast Feet",
+            "sets": 2,
+            "reps": 15,
+            "rest": "50s"
+          },
+          {
+            "name": "Burpees",
+            "sets": 2,
+            "reps": 8,
+            "rest": "50s"
+          },
+          {
+            "name": "Punches",
+            "sets": 2,
+            "reps": "20s",
+            "rest": "50s"
+          },
+          {
+            "name": "Side Step Touch",
+            "sets": 2,
+            "reps": 10,
+            "rest": "50s"
+          }
+        ]
+      },
+      "intermediate": {
+        "normal": [
+          {
+            "name": "Fast Feet",
+            "sets": 5,
+            "reps": 10,
+            "rest": "40s"
+          },
+          {
+            "name": "Jumping Jacks",
+            "sets": 5,
+            "reps": "60s",
+            "rest": "40s"
+          },
+          {
+            "name": "Punches",
+            "sets": 5,
+            "reps": "40s",
+            "rest": "40s"
+          },
+          {
+            "name": "Step Jacks",
+            "sets": 5,
+            "reps": "30s",
+            "rest": "40s"
+          },
+          {
+            "name": "Mountain Climbers",
+            "sets": 5,
+            "reps": 25,
+            "rest": "40s"
+          },
+          {
+            "name": "Squat Jumps",
+            "sets": 5,
+            "reps": 15,
+            "rest": "40s"
+          },
+          {
+            "name": "Leg Raise",
+            "sets": 5,
+            "reps": 12,
+            "rest": "40s"
+          },
+          {
+            "name": "Flutter Kicks",
+            "sets": 5,
+            "reps": 20,
+            "rest": "40s"
+          },
+          {
+            "name": "Burpees",
+            "sets": 5,
+            "reps": 12,
+            "rest": "40s"
+          },
+          {
+            "name": "Plank",
+            "sets": 5,
+            "reps": "60s",
+            "rest": "40s"
+          }
+        ],
+        "health_condition": [
+          {
+            "name": "Butt Kicks",
+            "sets": 3,
+            "reps": "30s",
+            "rest": "60s"
+          },
+          {
+            "name": "Jumping Jacks",
+            "sets": 3,
+            "reps": "10s",
+            "rest": "60s"
+          },
+          {
+            "name": "Punches",
+            "sets": 3,
+            "reps": "15s",
+            "rest": "60s"
+          },
+          {
+            "name": "Mountain Climbers",
+            "sets": 3,
+            "reps": 10,
+            "rest": "60s"
+          },
+          {
+            "name": "Fast Feet",
+            "sets": 3,
+            "reps": 12,
+            "rest": "60s"
+          },
+          {
+            "name": "Step Jacks",
+            "sets": 3,
+            "reps": 10,
+            "rest": "60s"
+          },
+          {
+            "name": "Standing Twist",
+            "sets": 3,
+            "reps": 12,
+            "rest": "60s"
+          },
+          {
+            "name": "Leg Raise",
+            "sets": 3,
+            "reps": 10,
+            "rest": "60s"
+          },
+          {
+            "name": "Flutter Kicks",
+            "sets": 3,
+            "reps": 12,
+            "rest": "60s"
+          },
+          {
+            "name": "High Knees",
+            "sets": 3,
+            "reps": 15,
+            "rest": "60s"
+          }
+        ]
+      },
+      "advanced": {
+        "normal": [
+          {
+            "name": "Butt Kicks",
+            "sets": 5,
+            "reps": "40s",
+            "rest": "60s"
+          },
+          {
+            "name": "Squat Jumps",
+            "sets": 5,
+            "reps": 20,
+            "rest": "60s"
+          },
+          {
+            "name": "High Knees",
+            "sets": 5,
+            "reps": 25,
+            "rest": "60s"
+          },
+          {
+            "name": "Burpees",
+            "sets": 5,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Flutter Kicks",
+            "sets": 5,
+            "reps": 10,
+            "rest": "60s"
+          },
+          {
+            "name": "Reverse Lunge | Left & Right",
+            "sets": 5,
+            "reps": 12,
+            "rest": "60s"
+          },
+          {
+            "name": "Mountain Climbers",
+            "sets": 5,
+            "reps": 25,
+            "rest": "60s"
+          },
+          {
+            "name": "Punches",
+            "sets": 5,
+            "reps": "60s",
+            "rest": "60s"
+          },
+          {
+            "name": "Leg Raise",
+            "sets": 5,
+            "reps": 10,
+            "rest": "60s"
+          },
+          {
+            "name": "Plank",
+            "sets": 5,
+            "reps": "60s",
+            "rest": "60s"
+          }
+        ],
+        "health_condition": [
+          {
+            "name": "Heel Touch",
+            "sets": 2,
+            "reps": 10,
+            "rest": "80s"
+          },
+          {
+            "name": "Bicycle Crunch",
+            "sets": 2,
+            "reps": 12,
+            "rest": "80s"
+          },
+          {
+            "name": "Leg Raise",
+            "sets": 2,
+            "reps": 10,
+            "rest": "80s"
+          },
+          {
+            "name": "Curl Ups",
+            "sets": 2,
+            "reps": 15,
+            "rest": "80s"
+          },
+          {
+            "name": "Squat",
+            "sets": 2,
+            "reps": 10,
+            "rest": "80s"
+          },
+          {
+            "name": "Plank",
+            "sets": 2,
+            "reps": "15s",
+            "rest": "80s"
+          },
+          {
+            "name": "Side Step Touch",
+            "sets": 2,
+            "reps": 15,
+            "rest": "80s"
+          },
+          {
+            "name": "Flutter Kicks",
+            "sets": 2,
+            "reps": 10,
+            "rest": "80s"
+          },
+          {
+            "name": "Reverse Lunge | Left & Right",
+            "sets": 2,
+            "reps": 12,
+            "rest": "80s"
+          },
+          {
+            "name": "Burpees",
+            "sets": 2,
+            "reps": 10,
+            "rest": "80s"
+          }
+        ]
+      }
+    },
+    "keep_fit": {
+      "beginner": {
+        "normal": [
+          {
+            "name": "Wall Sit",
+            "sets": 3,
+            "reps": "20s",
+            "rest": "30s"
+          },
+          {
+            "name": "Butt Kicks",
+            "sets": 3,
+            "reps": "20s",
+            "rest": "30s"
+          },
+          {
+            "name": "Hip Flexor Stretch",
+            "sets": 3,
+            "reps": 12,
+            "rest": "30s"
+          },
+          {
+            "name": "Squat",
+            "sets": 3,
+            "reps": 10,
+            "rest": "30s"
+          },
+          {
+            "name": "Back Stretch",
+            "sets": 3,
+            "reps": 15,
+            "rest": "30s"
+          },
+          {
+            "name": "Hip Hinge",
+            "sets": 3,
+            "reps": 12,
+            "rest": "30s"
+          },
+          {
+            "name": "Seated March",
+            "sets": 3,
+            "reps": 10,
+            "rest": "30s"
+          },
+          {
+            "name": "Glute Bridge",
+            "sets": 3,
+            "reps": 12,
+            "rest": "30s"
+          },
+          {
+            "name": "Side Leg Lift | Left & Right",
+            "sets": 3,
+            "reps": 15,
+            "rest": "30s"
+          },
+          {
+            "name": "Arm Circles",
+            "sets": 3,
+            "reps": 10,
+            "rest": "30s"
+          }
+        ],
+        "health_condition": [
+          {
+            "name": "Glute Bridge",
+            "sets": 2,
+            "reps": 10,
+            "rest": "50s"
+          },
+          {
+            "name": "Shoulder Mobility Circle",
+            "sets": 2,
+            "reps": 12,
+            "rest": "50s"
+          },
+          {
+            "name": "Forward Fold",
+            "sets": 2,
+            "reps": 10,
+            "rest": "50s"
+          },
+          {
+            "name": "Hip Flexor Stretch",
+            "sets": 2,
+            "reps": 12,
+            "rest": "50s"
+          },
+          {
+            "name": "Standing Crunch",
+            "sets": 2,
+            "reps": 15,
+            "rest": "50s"
+          },
+          {
+            "name": "Wall Sit",
+            "sets": 2,
+            "reps": "20s",
+            "rest": "50s"
+          },
+          {
+            "name": "Arm Circles",
+            "sets": 2,
+            "reps": 10,
+            "rest": "50s"
+          },
+          {
+            "name": "Punches",
+            "sets": 2,
+            "reps": "10s",
+            "rest": "50s"
+          },
+          {
+            "name": "Calf Raise | Left & Right",
+            "sets": 2,
+            "reps": 12,
+            "rest": "50s"
+          },
+          {
+            "name": "Seated March",
+            "sets": 2,
+            "reps": 10,
+            "rest": "50s"
+          }
+        ]
+      },
+      "intermediate": {
+        "normal": [
+          {
+            "name": "Butt Kicks",
+            "sets": 5,
+            "reps": "20s",
+            "rest": "40s"
+          },
+          {
+            "name": "Standing Torso Twist",
+            "sets": 5,
+            "reps": 12,
+            "rest": "40s"
+          },
+          {
+            "name": "Calf Raise | Left & Right",
+            "sets": 5,
+            "reps": 15,
+            "rest": "40s"
+          },
+          {
+            "name": "Punches",
+            "sets": 5,
+            "reps": "30s",
+            "rest": "40s"
+          },
+          {
+            "name": "Hip Hinge",
+            "sets": 5,
+            "reps": 15,
+            "rest": "40s"
+          },
+          {
+            "name": "Standing Knee Raise | Left & Right",
+            "sets": 5,
+            "reps": 20,
+            "rest": "40s"
+          },
+          {
+            "name": "Leg Raise",
+            "sets": 5,
+            "reps": 15,
+            "rest": "40s"
+          },
+          {
+            "name": "Glute Bridge",
+            "sets": 5,
+            "reps": 12,
+            "rest": "40s"
+          },
+          {
+            "name": "Seated March",
+            "sets": 5,
+            "reps": 20,
+            "rest": "40s"
+          },
+          {
+            "name": "Side Leg Lift | Left & Right",
+            "sets": 5,
+            "reps": 15,
+            "rest": "40s"
+          }
+        ],
+        "health_condition": [
+          {
+            "name": "Butt Kicks",
+            "sets": 3,
+            "reps": "15s",
+            "rest": "60s"
+          },
+          {
+            "name": "Forward Fold",
+            "sets": 3,
+            "reps": 10,
+            "rest": "60s"
+          },
+          {
+            "name": "Leg Raise",
+            "sets": 3,
+            "reps": 12,
+            "rest": "60s"
+          },
+          {
+            "name": "Hip Hinge",
+            "sets": 3,
+            "reps": 12,
+            "rest": "60s"
+          },
+          {
+            "name": "Side Leg Lift | Left & Right",
+            "sets": 3,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Standing Knee Raise | Left & Right",
+            "sets": 3,
+            "reps": 12,
+            "rest": "60s"
+          },
+          {
+            "name": "Standing Crunch",
+            "sets": 3,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Standing Torso Twist",
+            "sets": 3,
+            "reps": 12,
+            "rest": "60s"
+          },
+          {
+            "name": "Hip Flexor Stretch",
+            "sets": 3,
+            "reps": 10,
+            "rest": "60s"
+          },
+          {
+            "name": "Shoulder Mobility Circle",
+            "sets": 3,
+            "reps": 15,
+            "rest": "60s"
+          }
+        ]
+      },
+      "advanced": {
+        "normal": [
+          {
+            "name": "Push-up",
+            "sets": 5,
+            "reps": 10,
+            "rest": "60s"
+          },
+          {
+            "name": "Forward Fold",
+            "sets": 5,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Hip Hinge",
+            "sets": 5,
+            "reps": 20,
+            "rest": "60s"
+          },
+          {
+            "name": "Squat Jumps",
+            "sets": 5,
+            "reps": 12,
+            "rest": "60s"
+          },
+          {
+            "name": "Standing Knee Raise | Left & Right",
+            "sets": 5,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Side Steps",
+            "sets": 5,
+            "reps": 25,
+            "rest": "60s"
+          },
+          {
+            "name": "Hip Flexor Stretch",
+            "sets": 5,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Side Leg Lift | Left & Right",
+            "sets": 5,
+            "reps": 20,
+            "rest": "60s"
+          },
+          {
+            "name": "Shoulder Mobility Circle",
+            "sets": 5,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Standing Crunch",
+            "sets": 5,
+            "reps": 20,
+            "rest": "60s"
+          }
+        ],
+        "health_condition": [
+          {
+            "name": "Wall Push-up",
+            "sets": 2,
+            "reps": "30s",
+            "rest": "80s"
+          },
+          {
+            "name": "Glute Bridge",
+            "sets": 2,
+            "reps": 20,
+            "rest": "80s"
+          },
+          {
+            "name": "Squats",
+            "sets": 2,
+            "reps": 12,
+            "rest": "80s"
+          },
+          {
+            "name": "Punches",
+            "sets": 2,
+            "reps": "20s",
+            "rest": "80s"
+          },
+          {
+            "name": "Butt Kicks",
+            "sets": 2,
+            "reps": "30s",
+            "rest": "80s"
+          },
+          {
+            "name": "Standing Torso Twist",
+            "sets": 2,
+            "reps": 20,
+            "rest": "80s"
+          },
+          {
+            "name": "Hip Hinge",
+            "sets": 2,
+            "reps": 12,
+            "rest": "80s"
+          },
+          {
+            "name": "Standing Crunch",
+            "sets": 2,
+            "reps": 15,
+            "rest": "80s"
+          },
+          {
+            "name": "Back Stretch",
+            "sets": 2,
+            "reps": 20,
+            "rest": "80s"
+          },
+          {
+            "name": "Side Leg Lift | Left & Right",
+            "sets": 2,
+            "reps": 12,
+            "rest": "80s"
+          }
+        ]
+      }
+    },
+    "gain_muscles": {
+      "beginner": {
+        "normal": [
+          {
+            "name": "Push-up",
+            "sets": 3,
+            "reps": 15,
+            "rest": "30s"
+          },
+          {
+            "name": "Tricep Dip",
+            "sets": 3,
+            "reps": 10,
+            "rest": "30s"
+          },
+          {
+            "name": "Glute Bridge Hold",
+            "sets": 3,
+            "reps": "15s",
+            "rest": "30s"
+          },
+          {
+            "name": "High Knees",
+            "sets": 3,
+            "reps": 25,
+            "rest": "30s"
+          },
+          {
+            "name": "Squats",
+            "sets": 3,
+            "reps": 15,
+            "rest": "30s"
+          },
+          {
+            "name": "Reverse Lunge",
+            "sets": 3,
+            "reps": 12,
+            "rest": "30s"
+          },
+          {
+            "name": "Single-leg Squat | Left & Right",
+            "sets": 3,
+            "reps": 20,
+            "rest": "30s"
+          },
+          {
+            "name": "Calf Raise | Left & Right",
+            "sets": 3,
+            "reps": 15,
+            "rest": "30s"
+          },
+          {
+            "name": "Decline Push-up",
+            "sets": 3,
+            "reps": 12,
+            "rest": "30s"
+          },
+          {
+            "name": "Frog Pump",
+            "sets": 3,
+            "reps": 25,
+            "rest": "30s"
+          }
+        ],
+        "health_condition": [
+          {
+            "name": "Squats",
+            "sets": 2,
+            "reps": 12,
+            "rest": "50s"
+          },
+          {
+            "name": "High Knees",
+            "sets": 2,
+            "reps": 15,
+            "rest": "50s"
+          },
+          {
+            "name": "Calf Raise | Left & Right",
+            "sets": 2,
+            "reps": 15,
+            "rest": "50s"
+          },
+          {
+            "name": "Decline Push-up",
+            "sets": 2,
+            "reps": 5,
+            "rest": "50s"
+          },
+          {
+            "name": "Frog Pump",
+            "sets": 2,
+            "reps": 12,
+            "rest": "50s"
+          },
+          {
+            "name": "Superman Row",
+            "sets": 2,
+            "reps": "15s",
+            "rest": "50s"
+          },
+          {
+            "name": "Sit ups",
+            "sets": 2,
+            "reps": 15,
+            "rest": "50s"
+          },
+          {
+            "name": "Reverse Lunge",
+            "sets": 2,
+            "reps": 12,
+            "rest": "50s"
+          },
+          {
+            "name": "Tricep Dip",
+            "sets": 2,
+            "reps": 10,
+            "rest": "50s"
+          },
+          {
+            "name": "Side Plank Raise | Left & Right",
+            "sets": 2,
+            "reps": "30s",
+            "rest": "50s"
+          }
+        ]
+      },
+      "intermediate": {
+        "normal": [
+          {
+            "name": "Reverse Lunge",
+            "sets": 5,
+            "reps": 15,
+            "rest": "40s"
+          },
+          {
+            "name": "Bulgarian Split Squat",
+            "sets": 5,
+            "reps": 12,
+            "rest": "40s"
+          },
+          {
+            "name": "Superman Row",
+            "sets": 5,
+            "reps": "15s",
+            "rest": "40s"
+          },
+          {
+            "name": "Frog Pump",
+            "sets": 5,
+            "reps": 25,
+            "rest": "40s"
+          },
+          {
+            "name": "Side Plank Raise | Left & Right",
+            "sets": 5,
+            "reps": "30s",
+            "rest": "40s"
+          },
+          {
+            "name": "Tricep Dip",
+            "sets": 5,
+            "reps": 10,
+            "rest": "40s"
+          },
+          {
+            "name": "Decline Push-up",
+            "sets": 5,
+            "reps": 12,
+            "rest": "40s"
+          },
+          {
+            "name": "Single-leg Squat | Left & Right",
+            "sets": 5,
+            "reps": 20,
+            "rest": "40s"
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": 5,
+            "reps": 12,
+            "rest": "40s"
+          },
+          {
+            "name": "Wide Push-up",
+            "sets": 5,
+            "reps": 5,
+            "rest": "40s"
+          }
+        ],
+        "health_condition": [
+          {
+            "name": "Calf Raise",
+            "sets": 3,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Frog Pump",
+            "sets": 3,
+            "reps": 12,
+            "rest": "60s"
+          },
+          {
+            "name": "Single-leg Squat | Left & Right",
+            "sets": 3,
+            "reps": 20,
+            "rest": "60s"
+          },
+          {
+            "name": "Sit ups",
+            "sets": 3,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Wall Push-up",
+            "sets": 3,
+            "reps": "20s",
+            "rest": "60s"
+          },
+          {
+            "name": "Hip Thrust",
+            "sets": 3,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Side Plank Raise | Left & Right",
+            "sets": 3,
+            "reps": "30s",
+            "rest": "60s"
+          },
+          {
+            "name": "Bulgarian Split Squat",
+            "sets": 3,
+            "reps": 12,
+            "rest": "60s"
+          },
+          {
+            "name": "Wide Push-up",
+            "sets": 3,
+            "reps": 5,
+            "rest": "60s"
+          },
+          {
+            "name": "Reverse Lunge",
+            "sets": 3,
+            "reps": 10,
+            "rest": "60s"
+          }
+        ]
+      },
+      "advanced": {
+        "normal": [
+          {
+            "name": "Calf Raise",
+            "sets": 5,
+            "reps": 20,
+            "rest": "60s"
+          },
+          {
+            "name": "Reverse Lunge",
+            "sets": 5,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Bulgarian Split Squat",
+            "sets": 5,
+            "reps": 20,
+            "rest": "60s"
+          },
+          {
+            "name": "Single-leg Squat | Left & Right",
+            "sets": 5,
+            "reps": 25,
+            "rest": "60s"
+          },
+          {
+            "name": "Wide Push-up",
+            "sets": 5,
+            "reps": 15,
+            "rest": "60s"
+          },
+          {
+            "name": "Pike Push-up",
+            "sets": 5,
+            "reps": 12,
+            "rest": "60s"
+          },
+          {
+            "name": "Hollow Hold",
+            "sets": 5,
+            "reps": "40s",
+            "rest": "60s"
+          },
+          {
+            "name": "Side Plank Raise | Left & Right",
+            "sets": 5,
+            "reps": "60s",
+            "rest": "60s"
+          },
+          {
+            "name": "Leg Raise",
+            "sets": 5,
+            "reps": 25,
+            "rest": "60s"
+          },
+          {
+            "name": "Diamond Push-up",
+            "sets": 5,
+            "reps": 12,
+            "rest": "60s"
+          }
+        ],
+        "health_condition": [
+          {
+            "name": "Leg Raise",
+            "sets": 2,
+            "reps": 20,
+            "rest": "80s"
+          },
+          {
+            "name": "Hollow Hold",
+            "sets": 2,
+            "reps": "20s",
+            "rest": "80s"
+          },
+          {
+            "name": "Sit ups",
+            "sets": 2,
+            "reps": 20,
+            "rest": "80s"
+          },
+          {
+            "name": "Wide Push-up",
+            "sets": 2,
+            "reps": 10,
+            "rest": "80s"
+          },
+          {
+            "name": "Reverse Lunge",
+            "sets": 2,
+            "reps": 12,
+            "rest": "80s"
+          },
+          {
+            "name": "Squat",
+            "sets": 2,
+            "reps": 20,
+            "rest": "80s"
+          },
+          {
+            "name": "Bulgarian Split Squat",
+            "sets": 2,
+            "reps": 15,
+            "rest": "80s"
+          },
+          {
+            "name": "Calf Raise",
+            "sets": 2,
+            "reps": 20,
+            "rest": "80s"
+          },
+          {
+            "name": "Superman Row",
+            "sets": 2,
+            "reps": "12s",
+            "rest": "80s"
+          },
+          {
+            "name": "Pike Push-up",
+            "sets": 2,
+            "reps": 5,
+            "rest": "80s"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "health_conditions": {
+    "none": {
+      "label": "No Health Condition",
+      "male": 2500,
+      "female": 2000
+    },
+    "asthma": {
+      "label": "Asthma",
+      "male": 2300,
+      "female": 1900
+    },
+    "copd": {
+      "label": "COPD",
+      "male": 2600,
+      "female": 2100
+    },
+    "sleep_apnea": {
+      "label": "Sleep Apnea",
+      "male": 2200,
+      "female": 1800
+    },
+    "diabetes_type_1": {
+      "label": "Type 1 Diabetes",
+      "male": 2300,
+      "female": 1900
+    },
+    "diabetes_type_2": {
+      "label": "Type 2 Diabetes",
+      "male": 2100,
+      "female": 1700
+    },
+    "prediabetes": {
+      "label": "Prediabetes",
+      "male": 2200,
+      "female": 1800
+    },
+    "hypertension": {
+      "label": "Hypertension",
+      "male": 2300,
+      "female": 1900
+    },
+    "hypotension": {
+      "label": "Low Blood Pressure",
+      "male": 2400,
+      "female": 2000
+    },
+    "heart_disease": {
+      "label": "Heart Disease",
+      "male": 2200,
+      "female": 1800
+    },
+    "arrhythmia": {
+      "label": "Arrhythmia",
+      "male": 2200,
+      "female": 1800
+    },
+    "stroke_history": {
+      "label": "Stroke History",
+      "male": 2100,
+      "female": 1700
+    },
+    "hypothyroidism": {
+      "label": "Hypothyroidism",
+      "male": 2100,
+      "female": 1700
+    },
+    "hyperthyroidism": {
+      "label": "Hyperthyroidism",
+      "male": 2800,
+      "female": 2300
+    },
+    "hashimoto": {
+      "label": "Hashimoto’s Disease",
+      "male": 2100,
+      "female": 1700
+    },
+    "graves": {
+      "label": "Graves’ Disease",
+      "male": 2800,
+      "female": 2300
+    },
+    "pcos": {
+      "label": "PCOS",
+      "female": 1800
+    },
+    "endometriosis": {
+      "label": "Endometriosis",
+      "female": 1900
+    },
+    "menopause": {
+      "label": "Menopause",
+      "female": 1800
+    },
+    "pregnancy": {
+      "label": "Pregnancy",
+      "female": 2400
+    },
+    "breastfeeding": {
+      "label": "Breastfeeding",
+      "female": 2600
+    },
+    "anemia": {
+      "label": "Anemia",
+      "male": 2400,
+      "female": 2000
+    },
+    "osteoporosis": {
+      "label": "Osteoporosis",
+      "male": 2300,
+      "female": 1900
+    },
+    "arthritis": {
+      "label": "Arthritis",
+      "male": 2200,
+      "female": 1800
+    },
+    "rheumatoid_arthritis": {
+      "label": "Rheumatoid Arthritis",
+      "male": 2200,
+      "female": 1800
+    },
+    "gout": {
+      "label": "Gout",
+      "male": 2200,
+      "female": 1800
+    },
+    "chronic_kidney_disease": {
+      "label": "Chronic Kidney Disease",
+      "male": 2000,
+      "female": 1600
+    },
+    "kidney_stones": {
+      "label": "Kidney Stones",
+      "male": 2200,
+      "female": 1800
+    },
+    "fatty_liver": {
+      "label": "Fatty Liver Disease",
+      "male": 2200,
+      "female": 1800
+    },
+    "hepatitis": {
+      "label": "Hepatitis",
+      "male": 2300,
+      "female": 1900
+    },
+    "cirrhosis": {
+      "label": "Cirrhosis",
+      "male": 2100,
+      "female": 1700
+    },
+    "crohns": {
+      "label": "Crohn’s Disease",
+      "male": 2500,
+      "female": 2100
+    },
+    "ulcerative_colitis": {
+      "label": "Ulcerative Colitis",
+      "male": 2400,
+      "female": 2000
+    },
+    "ibs": {
+      "label": "IBS",
+      "male": 2300,
+      "female": 1900
+    },
+    "celiac": {
+      "label": "Celiac Disease",
+      "male": 2400,
+      "female": 2000
+    },
+    "gerd": {
+      "label": "GERD",
+      "male": 2200,
+      "female": 1800
+    },
+    "depression": {
+      "label": "Depression",
+      "male": 2300,
+      "female": 1900
+    },
+    "anxiety": {
+      "label": "Anxiety Disorder",
+      "male": 2300,
+      "female": 1900
+    },
+    "bipolar": {
+      "label": "Bipolar Disorder",
+      "male": 2400,
+      "female": 2000
+    },
+    "adhd": {
+      "label": "ADHD",
+      "male": 2600,
+      "female": 2100
+    },
+    "ptsd": {
+      "label": "PTSD",
+      "male": 2300,
+      "female": 1900
+    },
+    "chronic_fatigue": {
+      "label": "Chronic Fatigue Syndrome",
+      "male": 2300,
+      "female": 1900
+    },
+    "fibromyalgia": {
+      "label": "Fibromyalgia",
+      "male": 2200,
+      "female": 1800
+    },
+    "parkinsons": {
+      "label": "Parkinson’s Disease",
+      "male": 2400,
+      "female": 2000
+    },
+    "multiple_sclerosis": {
+      "label": "Multiple Sclerosis",
+      "male": 2300,
+      "female": 1900
+    },
+    "epilepsy": {
+      "label": "Epilepsy",
+      "male": 2400,
+      "female": 2000
+    },
+    "cancer_survivor": {
+      "label": "Cancer Survivor",
+      "male": 2400,
+      "female": 2000
+    },
+    "hiv": {
+      "label": "HIV",
+      "male": 2600,
+      "female": 2200
+    },
+    "autoimmune_general": {
+      "label": "Autoimmune Disorder",
+      "male": 2300,
+      "female": 1900
+    },
+    "lupus": {
+      "label": "Lupus",
+      "male": 2200,
+      "female": 1800
+    },
+    "psoriasis": {
+      "label": "Psoriasis",
+      "male": 2300,
+      "female": 1900
+    },
+    "eating_disorder_recovery": {
+      "label": "Eating Disorder Recovery",
+      "male": 2800,
+      "female": 2400
+    },
+    "burn_recovery": {
+      "label": "Burn Recovery",
+      "male": 3000,
+      "female": 2600
+    },
+    "post_surgery": {
+      "label": "Post-Surgery Recovery",
+      "male": 2600,
+      "female": 2200
+    },
+    "infection_chronic": {
+      "label": "Chronic Infection",
+      "male": 2500,
+      "female": 2100
+    },
+    "aging_65_plus": {
+      "label": "Age 65+",
+      "male": 2200,
+      "female": 1800
+    },
+    "metabolic_syndrome": {
+      "label": "Metabolic Syndrome",
+      "male": 2100,
+      "female": 1700
+    }
+  }
+}

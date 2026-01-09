@@ -1,0 +1,97 @@
+{
+  "items": [
+
+    { "name": "chicken adobo", "serving_size_g": 100, "calories": 128, "protein_g": 14, "fat_total_g": 6, "carbohydrates_total_g": 4 },
+    { "name": "pork adobo", "serving_size_g": 100, "calories": 180, "protein_g": 13, "fat_total_g": 14, "carbohydrates_total_g": 2 },
+    { "name": "beef adobo", "serving_size_g": 100, "calories": 165, "protein_g": 15, "fat_total_g": 10, "carbohydrates_total_g": 3 },
+
+    { "name": "sinigang na baboy", "serving_size_g": 100, "calories": 112, "protein_g": 9, "fat_total_g": 8, "carbohydrates_total_g": 3 },
+    { "name": "sinigang na hipon", "serving_size_g": 100, "calories": 98, "protein_g": 11, "fat_total_g": 2, "carbohydrates_total_g": 4 },
+    { "name": "sinigang na bangus", "serving_size_g": 100, "calories": 120, "protein_g": 12, "fat_total_g": 7, "carbohydrates_total_g": 3 },
+
+    { "name": "kare kare", "serving_size_g": 100, "calories": 150, "protein_g": 8, "fat_total_g": 12, "carbohydrates_total_g": 6 },
+    { "name": "caldereta", "serving_size_g": 100, "calories": 155, "protein_g": 9, "fat_total_g": 11, "carbohydrates_total_g": 5 },
+    { "name": "menudo", "serving_size_g": 100, "calories": 148, "protein_g": 10, "fat_total_g": 9, "carbohydrates_total_g": 7 },
+    { "name": "afritada", "serving_size_g": 100, "calories": 145, "protein_g": 10, "fat_total_g": 8, "carbohydrates_total_g": 8 },
+
+    { "name": "lechon kawali", "serving_size_g": 100, "calories": 320, "protein_g": 18, "fat_total_g": 28, "carbohydrates_total_g": 0 },
+    { "name": "lechon", "serving_size_g": 100, "calories": 290, "protein_g": 20, "fat_total_g": 24, "carbohydrates_total_g": 0 },
+    { "name": "sisig", "serving_size_g": 100, "calories": 280, "protein_g": 14, "fat_total_g": 24, "carbohydrates_total_g": 2 },
+
+    { "name": "bistek tagalog", "serving_size_g": 100, "calories": 175, "protein_g": 16, "fat_total_g": 11, "carbohydrates_total_g": 4 },
+    { "name": "chicken inasal", "serving_size_g": 100, "calories": 165, "protein_g": 18, "fat_total_g": 9, "carbohydrates_total_g": 4 },
+    { "name": "bangus inasal", "serving_size_g": 100, "calories": 160, "protein_g": 17, "fat_total_g": 8, "carbohydrates_total_g": 3 },
+
+    { "name": "tinola", "serving_size_g": 100, "calories": 90, "protein_g": 12, "fat_total_g": 3, "carbohydrates_total_g": 2 },
+    { "name": "nilaga", "serving_size_g": 100, "calories": 105, "protein_g": 10, "fat_total_g": 6, "carbohydrates_total_g": 3 },
+    { "name": "pochero", "serving_size_g": 100, "calories": 115, "protein_g": 10, "fat_total_g": 7, "carbohydrates_total_g": 4 },
+
+    { "name": "pinakbet", "serving_size_g": 100, "calories": 75, "protein_g": 3, "fat_total_g": 4, "carbohydrates_total_g": 9 },
+    { "name": "laing", "serving_size_g": 100, "calories": 130, "protein_g": 4, "fat_total_g": 9, "carbohydrates_total_g": 10 },
+    { "name": "ginataang gulay", "serving_size_g": 100, "calories": 120, "protein_g": 3, "fat_total_g": 8, "carbohydrates_total_g": 9 },
+
+    { "name": "lumpiang shanghai", "serving_size_g": 100, "calories": 265, "protein_g": 11, "fat_total_g": 18, "carbohydrates_total_g": 18 },
+    { "name": "lumpiang sariwa", "serving_size_g": 100, "calories": 130, "protein_g": 5, "fat_total_g": 4, "carbohydrates_total_g": 20 },
+
+    { "name": "pancit canton", "serving_size_g": 100, "calories": 154, "protein_g": 5, "fat_total_g": 5, "carbohydrates_total_g": 22 },
+    { "name": "pancit bihon", "serving_size_g": 100, "calories": 136, "protein_g": 4, "fat_total_g": 3, "carbohydrates_total_g": 25 },
+    { "name": "palabok", "serving_size_g": 100, "calories": 168, "protein_g": 6, "fat_total_g": 7, "carbohydrates_total_g": 22 },
+
+    { "name": "arroz caldo", "serving_size_g": 100, "calories": 94, "protein_g": 4, "fat_total_g": 3, "carbohydrates_total_g": 14 },
+    { "name": "goto", "serving_size_g": 100, "calories": 100, "protein_g": 5, "fat_total_g": 4, "carbohydrates_total_g": 15 },
+
+    { "name": "tapsilog", "serving_size_g": 100, "calories": 190, "protein_g": 12, "fat_total_g": 9, "carbohydrates_total_g": 15 },
+    { "name": "longsilog", "serving_size_g": 100, "calories": 220, "protein_g": 10, "fat_total_g": 15, "carbohydrates_total_g": 12 },
+    { "name": "tocilog", "serving_size_g": 100, "calories": 210, "protein_g": 10, "fat_total_g": 13, "carbohydrates_total_g": 14 },
+
+    { "name": "bibingka", "serving_size_g": 100, "calories": 215, "protein_g": 5, "fat_total_g": 7, "carbohydrates_total_g": 32 },
+    { "name": "puto", "serving_size_g": 100, "calories": 180, "protein_g": 4, "fat_total_g": 2, "carbohydrates_total_g": 38 },
+    { "name": "kutsinta", "serving_size_g": 100, "calories": 190, "protein_g": 2, "fat_total_g": 3, "carbohydrates_total_g": 40 },
+    { "name": "suman", "serving_size_g": 100, "calories": 220, "protein_g": 4, "fat_total_g": 6, "carbohydrates_total_g": 40 },
+    { "name": "biko", "serving_size_g": 100, "calories": 235, "protein_g": 4, "fat_total_g": 8, "carbohydrates_total_g": 42 },
+
+    { "name": "leche flan", "serving_size_g": 100, "calories": 300, "protein_g": 7, "fat_total_g": 18, "carbohydrates_total_g": 30 },
+    { "name": "halo halo", "serving_size_g": 100, "calories": 120, "protein_g": 3, "fat_total_g": 3, "carbohydrates_total_g": 22 },
+
+    { "name": "banana cue", "serving_size_g": 100, "calories": 250, "protein_g": 2, "fat_total_g": 8, "carbohydrates_total_g": 42 },
+    { "name": "camote cue", "serving_size_g": 100, "calories": 230, "protein_g": 2, "fat_total_g": 6, "carbohydrates_total_g": 40 },
+    { "name": "turon", "serving_size_g": 100, "calories": 240, "protein_g": 3, "fat_total_g": 10, "carbohydrates_total_g": 35 },
+
+    { "name": "pichi pichi", "serving_size_g": 100, "calories": 210, "protein_g": 1, "fat_total_g": 4, "carbohydrates_total_g": 44 },
+    { "name": "sapin sapin", "serving_size_g": 100, "calories": 225, "protein_g": 3, "fat_total_g": 6, "carbohydrates_total_g": 40 },
+    { "name": "maja blanca", "serving_size_g": 100, "calories": 210, "protein_g": 3, "fat_total_g": 6, "carbohydrates_total_g": 38 },
+
+    { "name": "ube halaya", "serving_size_g": 100, "calories": 260, "protein_g": 3, "fat_total_g": 8, "carbohydrates_total_g": 46 },
+    { "name": "cassava cake", "serving_size_g": 100, "calories": 240, "protein_g": 3, "fat_total_g": 9, "carbohydrates_total_g": 38 },
+
+    { "name": "chicken curry filipino", "serving_size_g": 100, "calories": 155, "protein_g": 12, "fat_total_g": 10, "carbohydrates_total_g": 5 },
+    { "name": "pork curry filipino", "serving_size_g": 100, "calories": 185, "protein_g": 11, "fat_total_g": 14, "carbohydrates_total_g": 4 },
+
+    { "name": "paksiw na bangus", "serving_size_g": 100, "calories": 110, "protein_g": 14, "fat_total_g": 5, "carbohydrates_total_g": 2 },
+    { "name": "paksiw na lechon", "serving_size_g": 100, "calories": 210, "protein_g": 15, "fat_total_g": 17, "carbohydrates_total_g": 3 },
+
+    { "name": "dinuguan", "serving_size_g": 100, "calories": 170, "protein_g": 14, "fat_total_g": 12, "carbohydrates_total_g": 3 },
+    { "name": "puto bumbong", "serving_size_g": 100, "calories": 230, "protein_g": 4, "fat_total_g": 6, "carbohydrates_total_g": 42 },
+
+    { "name": "chicken pastel", "serving_size_g": 100, "calories": 165, "protein_g": 11, "fat_total_g": 9, "carbohydrates_total_g": 8 },
+    { "name": "embutido", "serving_size_g": 100, "calories": 190, "protein_g": 12, "fat_total_g": 14, "carbohydrates_total_g": 4 },
+
+    { "name": "ukoy", "serving_size_g": 100, "calories": 250, "protein_g": 8, "fat_total_g": 15, "carbohydrates_total_g": 22 },
+    { "name": "okoy kalabasa", "serving_size_g": 100, "calories": 220, "protein_g": 6, "fat_total_g": 12, "carbohydrates_total_g": 24 },
+
+    { "name": "balut", "serving_size_g": 100, "calories": 185, "protein_g": 13, "fat_total_g": 11, "carbohydrates_total_g": 2 },
+    { "name": "penoy", "serving_size_g": 100, "calories": 160, "protein_g": 12, "fat_total_g": 9, "carbohydrates_total_g": 2 },
+
+    { "name": "tokwa't baboy", "serving_size_g": 100, "calories": 210, "protein_g": 12, "fat_total_g": 16, "carbohydrates_total_g": 5 },
+    { "name": "sisig tofu", "serving_size_g": 100, "calories": 160, "protein_g": 10, "fat_total_g": 11, "carbohydrates_total_g": 6 },
+
+    { "name": "giniling na baboy", "serving_size_g": 100, "calories": 175, "protein_g": 13, "fat_total_g": 12, "carbohydrates_total_g": 4 },
+    { "name": "giniling na manok", "serving_size_g": 100, "calories": 145, "protein_g": 14, "fat_total_g": 8, "carbohydrates_total_g": 4 },
+
+    { "name": "pork humba", "serving_size_g": 100, "calories": 220, "protein_g": 12, "fat_total_g": 18, "carbohydrates_total_g": 6 },
+    { "name": "chicken humba", "serving_size_g": 100, "calories": 170, "protein_g": 14, "fat_total_g": 10, "carbohydrates_total_g": 5 },
+
+    { "name": "sinangag", "serving_size_g": 100, "calories": 165, "protein_g": 4, "fat_total_g": 4, "carbohydrates_total_g": 30 },
+    { "name": "garlic rice with egg", "serving_size_g": 100, "calories": 180, "protein_g": 6, "fat_total_g": 6, "carbohydrates_total_g": 28 }
+  ]
+}

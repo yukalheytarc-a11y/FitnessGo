@@ -1,0 +1,830 @@
+{
+  "exercises": {
+    "Push-Up": {
+      "meanings": "The press-up or push-up is a popular upper-body exercise that uses body weight as resistance.",
+      "steps": [
+        "Starting Position - Plank position, hands slightly wider than shoulders.",
+        "Lower Down - Bend elbows and lower chest to the floor.",
+        "Push Up - Press back to plank position.",
+        "Repeat - Keep body straight throughout."
+      ],
+      "benefits": [
+        "Strengthens chest, shoulders, arms, and core",
+        "Improves posture and stability",
+        "Enhances upper-body endurance",
+        "No equipment needed"
+      ]
+    },
+    "Calf Raise": {
+      "meanings": "Calf raises strengthen the lower leg muscles by lifting the heels against body weight.",
+      "steps": [
+        "Starting Position - Stand upright with feet hip-width apart.",
+        "Lift - Raise heels off the floor.",
+        "Lower - Slowly return heels down.",
+        "Repeat - Maintain balance."
+      ],
+      "benefits": [
+        "Strengthens calf muscles",
+        "Improves ankle stability",
+        "Enhances balance",
+        "Supports walking and running"
+      ]
+    },
+    "Squat": {
+      "meanings": "Squats are a fundamental lower-body exercise that targets the legs and glutes.",
+      "steps": [
+        "Starting Position - Stand with feet shoulder-width apart.",
+        "Lower - Bend hips and knees.",
+        "Stand - Push through heels to rise.",
+        "Repeat - Keep chest upright."
+      ],
+      "benefits": [
+        "Strengthens legs and glutes",
+        "Improves mobility",
+        "Enhances functional movement",
+        "Builds lower-body endurance"
+      ]
+    },
+    "Dead Bug": {
+      "meanings": "Dead bug is a core stability exercise performed on the back using controlled movements.",
+      "steps": [
+        "Starting Position - Lie on back with arms and legs raised.",
+        "Lower - Extend opposite arm and leg.",
+        "Return - Go back to start.",
+        "Switch - Alternate sides."
+      ],
+      "benefits": [
+        "Improves core stability",
+        "Protects lower back",
+        "Enhances coordination",
+        "Builds abdominal control"
+      ]
+    },
+    "Wall Sit": {
+      "meanings": "Wall sits are an isometric exercise that builds leg endurance by holding a seated position.",
+      "steps": [
+        "Starting Position - Lean back against wall.",
+        "Lower - Bend knees to 90 degrees.",
+        "Hold - Maintain position.",
+        "Relax - Stand back up."
+      ],
+      "benefits": [
+        "Builds leg endurance",
+        "Strengthens thighs",
+        "Improves mental endurance",
+        "Low impact on joints"
+      ]
+    },
+    "Standing Knee Raise": {
+      "meanings": "Standing knee raises are a balance and core exercise performed upright.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "Lift - Raise one knee toward chest.",
+        "Lower - Return foot to floor.",
+        "Alternate - Switch legs."
+      ],
+      "benefits": [
+        "Improves balance",
+        "Activates core muscles",
+        "Enhances hip mobility",
+        "Low-impact movement"
+      ]
+    },
+    "Plank": {
+      "meanings": "Planks are a static core exercise that strengthens the abdominal and back muscles.",
+      "steps": [
+        "Starting Position - Forearms on floor, body straight.",
+        "Engage - Tighten core and glutes.",
+        "Hold - Maintain position.",
+        "Release - Relax slowly."
+      ],
+      "benefits": [
+        "Strengthens core",
+        "Improves posture",
+        "Enhances stability",
+        "Protects spine"
+      ]
+    },
+    "Step-Up": {
+      "meanings": "Step-ups are a functional leg exercise that mimics climbing movements.",
+      "steps": [
+        "Starting Position - Stand before a step.",
+        "Step - Place one foot on platform.",
+        "Push - Rise up through heel.",
+        "Return - Step back down."
+      ],
+      "benefits": [
+        "Builds leg strength",
+        "Improves balance",
+        "Enhances coordination",
+        "Supports daily movement"
+      ]
+    },
+    "Single Leg Glute Bridge": {
+      "meanings": "A glute bridge variation that targets one leg at a time.",
+      "steps": [
+        "Starting Position - Lie on back, one foot on floor.",
+        "Lift - Raise hips upward.",
+        "Lower - Return slowly.",
+        "Switch - Change legs."
+      ],
+      "benefits": [
+        "Strengthens glutes",
+        "Improves hip stability",
+        "Enhances balance",
+        "Supports lower back"
+      ]
+    },
+    "Reverse Lunge": {
+      "meanings": "Reverse lunges are a lower-body exercise stepping backward to reduce knee stress.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "Step Back - Lower rear knee.",
+        "Push - Return to start.",
+        "Alternate - Switch legs."
+      ],
+      "benefits": [
+        "Builds leg strength",
+        "Protects knees",
+        "Improves balance",
+        "Enhances coordination"
+      ]
+    },
+    "Superman Hold": {
+      "meanings": "Superman hold strengthens the lower back through an isometric hold.",
+      "steps": [
+        "Starting Position - Lie face down.",
+        "Lift - Raise arms and legs.",
+        "Hold - Maintain position.",
+        "Lower - Relax slowly."
+      ],
+      "benefits": [
+        "Strengthens lower back",
+        "Improves posture",
+        "Enhances spinal support",
+        "Builds endurance"
+      ]
+    },
+    "Bridge March": {
+      "meanings": "Bridge march is a glute bridge variation with alternating leg lifts.",
+      "steps": [
+        "Starting Position - Hold glute bridge.",
+        "Lift - Raise one knee.",
+        "Switch - Alternate legs.",
+        "Maintain - Keep hips stable."
+      ],
+      "benefits": [
+        "Improves hip stability",
+        "Engages core",
+        "Strengthens glutes",
+        "Enhances balance"
+      ]
+    },
+    "Curl Ups": {
+      "meanings": "Curl ups are a controlled abdominal exercise focusing on upper abs.",
+      "steps": [
+        "Starting Position - Lie on back, knees bent.",
+        "Lift - Raise shoulders slightly.",
+        "Lower - Return slowly.",
+        "Repeat - Keep core tight."
+      ],
+      "benefits": [
+        "Strengthens abs",
+        "Improves core endurance",
+        "Protects neck",
+        "Enhances muscle control"
+      ]
+    },
+    "Hip Hinge": {
+      "meanings": "Hip hinge is a foundational movement emphasizing hip motion over spine movement.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "Hinge - Push hips back.",
+        "Return - Stand tall.",
+        "Repeat - Maintain flat back."
+      ],
+      "benefits": [
+        "Protects lower back",
+        "Improves movement mechanics",
+        "Enhances strength training form",
+        "Supports daily activities"
+      ]
+    },
+    "Bird Dog": {
+      "meanings": "Bird dog improves balance and core coordination using opposite limbs.",
+      "steps": [
+        "Starting Position - Hands and knees.",
+        "Extend - Opposite arm and leg.",
+        "Hold - Maintain balance.",
+        "Switch - Change sides."
+      ],
+      "benefits": [
+        "Improves coordination",
+        "Strengthens core",
+        "Enhances balance",
+        "Supports spinal stability"
+      ]
+    },
+    "Side Lunge": {
+      "meanings": "Side lunges strengthen the legs through lateral movement.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "Step - Move sideways.",
+        "Lower - Bend stepping knee.",
+        "Return - Push back to center."
+      ],
+      "benefits": [
+        "Targets inner thighs",
+        "Improves hip mobility",
+        "Strengthens legs",
+        "Enhances balance"
+      ]
+    },
+    "Glute Bridge": {
+      "meanings": "Glute bridges strengthen the glutes and hips using body weight.",
+      "steps": [
+        "Starting Position - Lie on back, knees bent.",
+        "Lift - Raise hips upward.",
+        "Squeeze - Engage glutes.",
+        "Lower - Return slowly."
+      ],
+      "benefits": [
+        "Strengthens glutes",
+        "Supports lower back",
+        "Improves posture",
+        "Enhances hip stability"
+      ]
+    },
+    "Arm Circles": {
+      "meanings": "Arm circles improve shoulder mobility and warm up the upper body.",
+      "steps": [
+        "Starting Position - Stand with arms extended.",
+        "Circle - Rotate arms forward.",
+        "Reverse - Change direction.",
+        "Repeat - Maintain control."
+      ],
+      "benefits": [
+        "Improves shoulder mobility",
+        "Reduces stiffness",
+        "Prepares arms for exercise",
+        "Enhances circulation"
+      ]
+    },
+    "Diamond Push Up": {
+      "meanings": "Diamond push-ups emphasize the triceps by narrowing hand placement.",
+      "steps": [
+        "Starting Position - Hands form diamond shape.",
+        "Lower - Bend elbows.",
+        "Push - Return upward.",
+        "Repeat - Keep body straight."
+      ],
+      "benefits": [
+        "Strengthens triceps",
+        "Builds upper-body strength",
+        "Enhances muscle tone",
+        "Improves core engagement"
+      ]
+    },
+    "Wall Push Up": {
+      "meanings": "Wall push-ups are a beginner-friendly push-up variation.",
+      "steps": [
+        "Starting Position - Hands on wall.",
+        "Lower - Bend elbows toward wall.",
+        "Push - Return upright.",
+        "Repeat - Maintain posture."
+      ],
+      "benefits": [
+        "Builds arm strength",
+        "Low impact on joints",
+        "Suitable for beginners",
+        "Improves upper-body endurance"
+      ]
+    },
+    "Butt Kicks": {
+      "meanings": "Butt kicks are a cardio warm-up exercise involving jogging in place.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "Kick - Bring heels toward glutes.",
+        "Swing Arms - Move naturally.",
+        "Repeat - Maintain rhythm."
+      ],
+      "benefits": [
+        "Increases heart rate",
+        "Warms leg muscles",
+        "Improves coordination",
+        "Enhances endurance"
+      ]
+    },
+    "High Knees": {
+      "meanings": "High knees are a high-intensity cardio exercise performed in place.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "Lift - Drive knees upward.",
+        "Alternate - Switch quickly.",
+        "Repeat - Maintain speed."
+      ],
+      "benefits": [
+        "Burns calories",
+        "Strengthens legs",
+        "Improves cardiovascular fitness",
+        "Enhances agility"
+      ]
+    },
+    "Skater Step": {
+      "meanings": "Skater steps are lateral movements inspired by skating.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "Jump - Move sideways onto one foot.",
+        "Balance - Cross other leg behind.",
+        "Repeat - Switch sides."
+      ],
+      "benefits": [
+        "Improves lateral strength",
+        "Enhances balance",
+        "Strengthens legs",
+        "Boosts coordination"
+      ]
+    },
+    "Side Step Touch": {
+      "meanings": "Side step touch is a low-impact cardio exercise suitable for all levels.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "Step - Move sideways.",
+        "Touch - Bring other foot in.",
+        "Repeat - Alternate sides."
+      ],
+      "benefits": [
+        "Improves coordination",
+        "Gentle on joints",
+        "Enhances cardiovascular health",
+        "Great for beginners"
+      ]
+    },
+    "Punches": {
+      "meanings": "Punches are an upper-body cardio exercise that mimics boxing movements.",
+      "steps": [
+        "Starting Position - Stand with fists up.",
+        "Punch - Extend one arm forward.",
+        "Alternate - Switch arms.",
+        "Repeat - Maintain pace."
+      ],
+      "benefits": [
+        "Strengthens arms and shoulders",
+        "Improves endurance",
+        "Boosts heart rate",
+        "Relieves stress"
+      ]
+    },
+    "March in Place": {
+      "meanings": "Marching in place is a simple low-impact cardio exercise.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "March - Lift knees alternately.",
+        "Swing Arms - Move naturally.",
+        "Repeat - Maintain rhythm."
+      ],
+      "benefits": [
+        "Improves circulation",
+        "Low impact on joints",
+        "Enhances mobility",
+        "Suitable for all ages"
+      ]
+    },
+    "Burpees": {
+      "meanings": "Burpees are a full-body exercise combining strength and cardio.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "Squat - Place hands on floor.",
+        "Jump Back - Enter plank.",
+        "Jump Up - Return and jump."
+      ],
+      "benefits": [
+        "Burns calories",
+        "Builds full-body strength",
+        "Improves cardiovascular endurance",
+        "Enhances agility"
+      ]
+    },
+    "Mountain Climbers": {
+      "meanings": "Mountain climbers are a dynamic core and cardio exercise.",
+      "steps": [
+        "Starting Position - Plank position.",
+        "Drive - Bring knee toward chest.",
+        "Switch - Alternate legs quickly.",
+        "Repeat - Maintain speed."
+      ],
+      "benefits": [
+        "Strengthens core",
+        "Boosts heart rate",
+        "Burns calories",
+        "Improves agility"
+      ]
+    },
+    "Jumping Jacks":{
+      "meanings": "Jumping jacks are a classic full-body cardio exercise involving rhythmic jumping.",
+      "steps": [
+        "Starting Position - Stand with feet together.",
+        "Jump Out - Spread legs and raise arms.",
+        "Jump In - Return to start.",
+        "Repeat - Maintain rhythm."
+      ],
+      "benefits": [
+        "Improves cardiovascular health",
+        "Engages full body",
+        "Boosts coordination",
+        "Great warm-up exercise"
+      ]
+    },
+    "Standing Twist": {
+      "meanings": "Standing twists improve core mobility through torso rotation.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "Twist - Rotate torso side to side.",
+        "Control - Keep hips stable.",
+        "Repeat - Smooth motion."
+      ],
+      "benefits": [
+        "Improves core mobility",
+        "Strengthens obliques",
+        "Enhances flexibility",
+        "Reduces stiffness"
+      ]
+    },
+    "Light Hops": {
+      "meanings": "Light hops are gentle plyometric movements for coordination and circulation.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "Hop - Jump lightly.",
+        "Land - Soft knees.",
+        "Repeat - Maintain control."
+      ],
+      "benefits": [
+        "Improves coordination",
+        "Boosts circulation",
+        "Low-impact cardio",
+        "Enhances balance"
+      ]
+    },
+    "Fast Feet": {
+      "meanings": "Fast feet is an agility drill focusing on quick foot movement.",
+      "steps": [
+        "Starting Position - Slight knee bend.",
+        "Move - Run feet quickly in place.",
+        "Stay Light - Short steps.",
+        "Repeat - Maintain speed."
+      ],
+      "benefits": [
+        "Improves agility",
+        "Boosts cardiovascular fitness",
+        "Enhances reaction speed",
+        "Burns calories"
+      ]
+    },
+    "Squat Jumps": {
+      "meanings": "Squat jumps combine strength and explosive power.",
+      "steps": [
+        "Starting Position - Squat stance.",
+        "Lower - Bend knees.",
+        "Jump - Explode upward.",
+        "Land - Soft knees."
+      ],
+      "benefits": [
+        "Builds leg power",
+        "Improves athletic performance",
+        "Burns calories",
+        "Enhances coordination"
+      ]
+    },
+    "Leg Raise": {
+      "meanings": "Leg raises are a core exercise focusing on lower abdominal muscles.",
+      "steps": [
+        "Starting Position - Lie on back.",
+        "Lift - Raise legs upward.",
+        "Lower - Control movement.",
+        "Repeat - Keep core engaged."
+      ],
+      "benefits": [
+        "Strengthens lower abs",
+        "Improves core stability",
+        "Enhances muscle control",
+        "Supports posture"
+      ]
+    },
+    "Flutter Kicks": {
+      "meanings": "Flutter kicks are an abdominal endurance exercise using alternating leg motion.",
+      "steps": [
+        "Starting Position - Lie on back.",
+        "Lift - Legs slightly off floor.",
+        "Kick - Alternate legs.",
+        "Repeat - Maintain rhythm."
+      ],
+      "benefits": [
+        "Strengthens core",
+        "Improves endurance",
+        "Tones abs",
+        "Burns calories"
+      ]
+    },
+    "Heel Touch": {
+      "meanings": "Heel touches target the oblique muscles using side bending.",
+      "steps": [
+        "Starting Position - Lie on back, knees bent.",
+        "Reach - Touch one heel.",
+        "Switch - Alternate sides.",
+        "Repeat - Controlled motion."
+      ],
+      "benefits": [
+        "Targets obliques",
+        "Strengthens core",
+        "Improves abdominal tone",
+        "Low-impact exercise"
+      ]
+    },
+    "Bicycle Crunch": {
+      "meanings": "Bicycle crunches engage the entire core through alternating movements.",
+      "steps": [
+        "Starting Position - Lie on back.",
+        "Pedal - Elbow to opposite knee.",
+        "Switch - Alternate sides.",
+        "Repeat - Maintain pace."
+      ],
+      "benefits": [
+        "Engages full core",
+        "Strengthens abs and obliques",
+        "Improves coordination",
+        "Burns calories"
+      ]
+    },
+    "Hip Flexor Stretch": {
+      "meanings": "Hip flexor stretches relieve tightness caused by prolonged sitting.",
+      "steps": [
+        "Starting Position - Step one foot forward.",
+        "Stretch - Push hips forward gently.",
+        "Hold - Maintain stretch.",
+        "Switch - Change sides."
+      ],
+      "benefits": [
+        "Improves hip flexibility",
+        "Reduces stiffness",
+        "Enhances posture",
+        "Supports lower back health"
+      ]
+    },
+    "Back Stretch": {
+      "meanings": "Back stretches relax and lengthen spinal muscles.",
+      "steps": [
+        "Starting Position - Upright stance.",
+        "Stretch - Gently round back.",
+        "Hold - Breathe deeply.",
+        "Release - Return slowly."
+      ],
+      "benefits": [
+        "Relieves back tension",
+        "Improves flexibility",
+        "Promotes relaxation",
+        "Supports spinal health"
+      ]
+    },
+    "Seated March": {
+      "meanings": "Seated marching improves leg mobility while seated.",
+      "steps": [
+        "Starting Position - Sit upright.",
+        "Lift - Raise one knee.",
+        "Lower - Return foot down.",
+        "Alternate - Switch legs."
+      ],
+      "benefits": [
+        "Improves circulation",
+        "Gentle on joints",
+        "Enhances leg mobility",
+        "Suitable for beginners"
+      ]
+    },
+    "Side Leg Lift": {
+      "meanings": "Side leg lifts strengthen the outer thighs and hips.",
+      "steps": [
+        "Starting Position - Lie or stand sideways.",
+        "Lift - Raise top leg.",
+        "Lower - Control movement.",
+        "Repeat - Switch sides."
+      ],
+      "benefits": [
+        "Strengthens hips",
+        "Improves balance",
+        "Enhances leg tone",
+        "Supports joint stability"
+      ]
+    },
+    "Shoulder Mobility Circle": {
+      "meanings": "Shoulder circles improve flexibility and reduce stiffness.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "Circle - Rotate shoulders forward.",
+        "Reverse - Change direction.",
+        "Repeat - Smooth motion."
+      ],
+      "benefits": [
+        "Improves shoulder mobility",
+        "Reduces stiffness",
+        "Enhances posture",
+        "Supports joint health"
+      ]
+    },
+    "Forward Fold": {
+      "meanings": "Forward fold stretches the back and hamstrings.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "Fold - Bend forward from hips.",
+        "Reach - Toward toes.",
+        "Hold - Relax muscles."
+      ],
+      "benefits": [
+        "Improves flexibility",
+        "Relieves tension",
+        "Stretches hamstrings",
+        "Promotes relaxation"
+      ]
+    },
+    "Standing Crunch": {
+      "meanings": "Standing crunches strengthen the core without floor contact.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "Crunch - Bring knee toward chest.",
+        "Lower - Return to start.",
+        "Alternate - Switch sides."
+      ],
+      "benefits": [
+        "Strengthens abs",
+        "Improves balance",
+        "Low-impact core exercise",
+        "Enhances coordination"
+      ]
+    },
+    "Standing Torso Twist": {
+      "meanings": "Standing torso twists focus on rotational core strength.",
+      "steps": [
+        "Starting Position - Stand upright.",
+        "Twist - Rotate torso side to side.",
+        "Control - Keep hips stable.",
+        "Repeat - Maintain rhythm."
+      ],
+      "benefits": [
+        "Strengthens obliques",
+        "Improves spinal mobility",
+        "Enhances posture",
+        "Reduces stiffness"
+      ]
+    },
+    "Tricep Dip": {
+      "meanings": "Tricep dips strengthen the back of the arms using body weight.",
+      "steps": [
+        "Starting Position - Hands on chair.",
+        "Lower - Bend elbows.",
+        "Push - Return upward.",
+        "Repeat - Controlled movement."
+      ],
+      "benefits": [
+        "Strengthens triceps",
+        "Builds upper-body strength",
+        "Improves arm endurance",
+        "No equipment needed"
+      ]
+    },
+    "Decline Push Up": {
+      "meanings": "Decline push-ups increase upper-body difficulty by elevating the feet.",
+      "steps": [
+        "Starting Position - Feet elevated.",
+        "Lower - Bend elbows.",
+        "Push - Return upward.",
+        "Repeat - Maintain form."
+      ],
+      "benefits": [
+        "Builds chest strength",
+        "Engages core more",
+        "Enhances muscle tone",
+        "Improves endurance"
+      ]
+    },
+    "Frog Pump": {
+      "meanings": "Frog pumps activate the glutes through repeated hip lifts.",
+      "steps": [
+        "Starting Position - Lie on back, feet together.",
+        "Lift - Pump hips upward.",
+        "Lower - Controlled movement.",
+        "Repeat - Squeeze glutes."
+      ],
+      "benefits": [
+        "Activates glutes",
+        "Improves hip strength",
+        "Low-impact exercise",
+        "Supports lower back"
+      ]
+    },
+    "Sit Ups": {
+      "meanings": "Sit-ups are a classic core exercise engaging abdominal muscles.",
+      "steps": [
+        "Starting Position - Lie on back.",
+        "Sit Up - Lift torso.",
+        "Lower - Return slowly.",
+        "Repeat - Maintain control."
+      ],
+      "benefits": [
+        "Strengthens abs",
+        "Builds core endurance",
+        "Improves posture",
+        "Enhances muscle tone"
+      ]
+    },
+    "Side Plank Raise": {
+      "meanings": "Side plank raises improve core stability and oblique strength.",
+      "steps": [
+        "Starting Position - Side plank.",
+        "Raise - Lift hips upward.",
+        "Lower - Controlled movement.",
+        "Switch - Change sides."
+      ],
+      "benefits": [
+        "Strengthens obliques",
+        "Improves balance",
+        "Enhances core stability",
+        "Supports posture"
+      ]
+    },
+    "Bulgarian Split Squat": {
+      "meanings": "Bulgarian split squats are a single-leg exercise improving strength and balance.",
+      "steps": [
+        "Starting Position - Rear foot elevated.",
+        "Lower - Bend front knee.",
+        "Push - Return upright.",
+        "Switch - Change legs."
+      ],
+      "benefits": [
+        "Builds leg strength",
+        "Improves balance",
+        "Enhances glute activation",
+        "Supports joint stability"
+      ]
+    },
+    "Hip Thrust": {
+      "meanings": "Hip thrusts are a powerful glute exercise performed with upper back support.",
+      "steps": [
+        "Starting Position - Upper back on bench.",
+        "Thrust - Drive hips upward.",
+        "Squeeze - Engage glutes.",
+        "Lower - Controlled return."
+      ],
+      "benefits": [
+        "Strengthens glutes",
+        "Improves hip power",
+        "Enhances athletic performance",
+        "Supports lower back"
+      ]
+    },
+    "Wide Push Up": {
+      "meanings": "Wide push-ups emphasize chest muscles through wider hand placement.",
+      "steps": [
+        "Starting Position - Hands wider than shoulders.",
+        "Lower - Bend elbows.",
+        "Push - Return upward.",
+        "Repeat - Maintain form."
+      ],
+      "benefits": [
+        "Targets chest muscles",
+        "Builds upper-body strength",
+        "Improves endurance",
+        "No equipment needed"
+      ]
+    },
+    "Pike Push Up": {
+      "meanings": "Pike push-ups focus on shoulder strength using body weight.",
+      "steps": [
+        "Starting Position - Hips raised.",
+        "Lower - Bend elbows.",
+        "Push - Return upward.",
+        "Repeat - Keep core tight."
+      ],
+      "benefits": [
+        "Strengthens shoulders",
+        "Improves upper-body control",
+        "Engages core",
+        "Enhances balance"
+      ]
+    },
+    "Hollow Hold": {
+      "meanings": "Hollow hold is a core isometric exercise building abdominal endurance.",
+      "steps": [
+        "Starting Position - Lie on back.",
+        "Lift - Arms and legs off floor.",
+        "Hold - Tighten core.",
+        "Lower - Relax slowly."
+      ],
+      "benefits": [
+        "Improves core stability",
+        "Enhances posture",
+        "Builds abdominal endurance",
+        "Supports spinal health"
+      ]
+    }
+
+  }
+}
